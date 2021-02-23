@@ -10,3 +10,4 @@ import './img/services1.svg';
 import './img/services2.svg';
 import './img/services3.svg';
 import './img/services4.svg';
+import './img/protect.svg';
