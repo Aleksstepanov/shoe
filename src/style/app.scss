@@ -240,7 +240,7 @@ body {
   margin-top: 5.6rem;
 }
 .titleH2-white {
-  color: #FFFFFF;
+  color: #ffffff;
 }
 .titleH2-position {
   width: 33rem;
@@ -255,16 +255,75 @@ body {
 }
 .cabinet__text {
   font-family: "Roboto-Regular";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.8rem;
+  line-height: 2.2rem;
+  text-align: center;
+  text-decoration-line: underline;
+  text-transform: uppercase;
+  color: #ffffff;
+  cursor: pointer;
+  margin-top: -0.6rem;
+  margin-left: 3.5rem;
+  margin-bottom: 12.6rem;
+}
+.services {
+  background: #60777C;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.titleH2-services {
+  color: #FFFFFF;
+  width: 60.4rem;
+  margin-top: 7.5rem;
+}
+.paragraph-services {
+  width: 64rem;
+  line-height: 2.6rem;
+  font-size: 2.2rem;
+  margin-top: -4px;
+  margin-right: -9rem;
+  text-align: center;
+  margin-left: 0;
+  margin-right: 0;
+}
+.services__cards {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 7.2rem;
+}
+.services__item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 12rem;
+  margin-bottom: 12rem;
+}
+.services__title {
+  font-family: "Roboto-Regular";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 4rem;
+  line-height: 4rem;
+  color: #FFFFFF;
+}
+.services__text {
+  font-family: "Roboto-Regular";
 font-style: normal;
 font-weight: normal;
-font-size: 1.8rem;
-line-height: 2.2rem;
-text-align: center;
-text-decoration-line: underline;
-text-transform: uppercase;
+font-size: 22px;
+line-height: 26px;
 color: #FFFFFF;
-cursor: pointer;
-margin-top: -.6rem;
-margin-left: 3.5rem;
-margin-bottom: 12.6rem;
+width: 53rem;
+margin-left: 4rem;
+margin-right: 4rem;
+}
+.sevices__img {
+  margin-left: 4rem;
+  margin-right: 4rem;
 }

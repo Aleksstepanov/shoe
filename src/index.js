@@ -6,3 +6,7 @@ import './img/cabinet1.svg';
 import './img/cabinet2.svg';
 import './img/cabinet3.svg';
 import './img/card__footer.svg';
+import './img/services1.svg';
+import './img/services2.svg';
+import './img/services3.svg';
+import './img/services4.svg';
